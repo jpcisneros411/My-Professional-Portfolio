@@ -1,5 +1,7 @@
 # My Professional Portfolio by JC
 
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/88108211/155033477-3c922b91-1de4-4d99-bc04-84e8f95ae531.png">
+
 
   ## Table of Contents
 
